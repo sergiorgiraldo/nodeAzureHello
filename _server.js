@@ -1,3 +1,4 @@
+/*
 var http = require('http')
 var port = process.env.port || 1337;
 
@@ -71,3 +72,4 @@ function handle_request(request, response) {
 http.createServer(handle_request).listen(port, '127.0.0.1');
 
 console.log('Started Node.js http server at http://127.0.0.1:' +  port);
+*/
